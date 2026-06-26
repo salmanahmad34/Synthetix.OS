@@ -1,0 +1,6 @@
+{
+  "name": "AI Platform Landing Page",
+  "description": "A premium, responsive single-page landing page for an advanced AI platform, featuring an interactive Bento Accordion, Pricing Matrix, custom hooks, and pure CSS animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

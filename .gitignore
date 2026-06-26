@@ -1,0 +1,26 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+
+# APIs, Keys, Secrets, and local configurations
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*
+!.env.example
+
+# Credentials & Certificates
+*.pem
+*.key
+credentials.json
+client_secret*.json
+firebase-key*.json
+secrets*.json
+jwt*.key
+token.json
+tokens.json
